@@ -14,7 +14,7 @@
 
 [![Build Status][semaphore-badge]][semaphore]
 [![Coverage Status][coveralls-badge]][coveralls]
-[![Coverage Status][codeclimate-badge]][codeclimate]
+[![Code Climate][codeclimate-badge]][codeclimate]
 
 ## Challenge
 Build an online restaurant system to manage take away orders.
